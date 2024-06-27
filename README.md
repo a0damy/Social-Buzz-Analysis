@@ -26,7 +26,7 @@ understanding how the world's biggest companies manage the challenges of big dat
 This project will design and develop an intuitive and user-friendly dashboard that provides actionable insights into the top-performing categories, content types, and trends. The envisioned dashboard will offer a comprehensive overview of performance metrics, including the top 5 categories, content type performance, distribution by category, and monthly trends for 2011. By leveraging Microsoft Excel, this project aims to empower informed decision-making and drive sustainable growth for social buzz.
 
 ## The Data
-The dataset for this project was provided by Forage. This include 3 datasets; The Reaction, Content and Reaction Types. After thorough cleaning, it amounts to a total of 2,627 rows and 7 columns withe the following information:
+The dataset for this project was provided by [Forage](https://www.theforage.com/simulations/accenture-nam/data-analytics-mmlb). This include 3 datasets; The Reaction, Content and Reaction Types. After thorough cleaning, it amounts to a total of 2,627 rows and 7 columns withe the following information:
   1. Content ID
   2. Reaction Type
   3. DateTime
