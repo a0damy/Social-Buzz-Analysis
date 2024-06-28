@@ -76,6 +76,8 @@ This include an Excel function used in this project to derive the aggregations o
 
 ## Dashboard
 
+   <img width="622" alt="SB Dashboard" src="https://github.com/a0damy/Social-Buzz-Analysis/assets/171259818/d2eabb4a-87b4-4c29-a9a6-585cb2284255">
+
 ## Recommendations
   1. Food being a dominant topic, capitalize on the popularity of healthy eating content by launching a targeted campaign that resonates with the audience. This 
      campaign can include; Sponsored content and product placements with healthy eating brands, Influencer partnerships with wellness experts and nutritionists.
